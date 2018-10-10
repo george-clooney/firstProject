@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+  这是服务器的内容
 </body>
 </html>
